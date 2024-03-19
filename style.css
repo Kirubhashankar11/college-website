@@ -137,7 +137,7 @@ nav .fa-solid{
 }
 
 /* ----------- course ------------- */
-.course{
+.Course{
     width : 80%;
     margin:auto;
     text-align:center;
@@ -429,4 +429,4 @@ h3{
     background: #f44336;
     color: #fff;
     transition: 1s;
-}
+} 
